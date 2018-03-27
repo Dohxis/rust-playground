@@ -1,0 +1,7 @@
+[package]
+name = "not-blackjack"
+version = "0.1.0"
+authors = ["Domantas Mauruča <domantas.mauruca@gmail.com>"]
+
+[dependencies]
+"rand" = "0.3.0"

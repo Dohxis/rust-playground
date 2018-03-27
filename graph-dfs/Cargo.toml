@@ -1,0 +1,6 @@
+[package]
+name = "graph-dfs"
+version = "0.1.0"
+authors = ["Domantas Mauruča <domantas.mauruca@gmail.com>"]
+
+[dependencies]
